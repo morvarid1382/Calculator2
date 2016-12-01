@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Calculator3</string>
+    <string name="something_wrong">SomethingWrong</string>
 </resources>
